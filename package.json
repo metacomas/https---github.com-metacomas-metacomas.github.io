@@ -32,7 +32,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://metacomas.github.io/redux/",
+  "homepage": "https://metacomas.github.io/redux/build/",
   "browserslist": {
     "production": [
       ">0.2%",
